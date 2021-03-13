@@ -1,0 +1,29 @@
+#packages used = readr, stringr
+
+```{r}
+library(readr)
+library(stringr)
+
+
+#readr package has read.file()
+DNA_string <- read.file("file.txt")
+
+
+#str_count() function from stringr package counts patterns in a string
+
+
+str_count(DNA_string, pattern = "A")
+str_count(DNA_string, pattern = "C")
+str_count(DNA_string, pattern = "G")
+str_count(DNA_string, pattern = "T")
+```
+
+
+Sample Output:
+> str_count(string, pattern = "A")
+[1] 20
+> str_count(string, pattern = "C")
+[1] 12
+> str_count(string, pattern = "G")
+[1] 17
+> str_count(string, pattern = "T")
