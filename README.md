@@ -1,2 +1,2 @@
-# Rosalind-Problems
-Code solutions to Rosalind problems in R and python
+# Rosalind-Bioinfomatics-Stronghold
+Solutions to Rosalind problems in R and python
