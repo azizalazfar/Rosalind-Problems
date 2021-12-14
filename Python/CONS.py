@@ -4,14 +4,6 @@ import regex
 from Bio import SeqIO
 
 
-
-# with open('test.txt') as fasta:
-# 	data = fasta.read()
-# 	print(data)
-# 	relist = regex.split('>Rosalind_', regex.sub('\n','', data))[1:]
-# 	tidy_data = []
-# 	for elem in relist:
-# 		tidy_data.append(''.join(list(elem)[4:]))
 tidy_data = []
 with open('rosalind_cons.txt') as file:
 	for org in SeqIO.parse(file, 'fasta'):
