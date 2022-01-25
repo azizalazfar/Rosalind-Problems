@@ -1,14 +1,7 @@
 def Hammdist(txt1, txt2):
-	distance = 0
-	for i in range(len(txt1)):
-		if len(txt1) != len(txt2):
-			print('patterns are not equal in length, you dumbfuck!')
-		elif txt1[i] != txt2[i]:
-			distance += 1
-	return distance
+	return len([x for x,y in zip(txt1, txt2) if x != y])
 
 with open('rosalind_hamm.txt') as f:
-	file = f.read()
-	file = list(file.splitlines())
+	seq_1, seq_2 = f.read().splitlines()
 
-print(Hammdist(file[0], file[1]))			
+print(Hammdist(seq_1, seq_2))
