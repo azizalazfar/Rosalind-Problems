@@ -20,17 +20,14 @@ List of problems:
 | **[	Independent Alleles](https://rosalind.info/problems/lia/)**  | **[LIA.py]()**  |
 | **[	Finding a Protein Motif](https://rosalind.info/problems/mprt/)**  | **[MPRT.py]()**  |
 | **[	Inferring mRNA from Protein](https://rosalind.info/problems/mrna/)**  | **[MRNA.py]()**  |
-
 | **[	Open Reading Frames](https://rosalind.info/problems/orf/)**  | **[ORF.py]()**  |
 | **[	Enumerating Gene Orders](https://rosalind.info/problems/perm/)**  | **[PERM.py]()**  |
 | **[	Calculating Protein Mass](https://rosalind.info/problems/prtm/)**  | **[PRTM.py]()**  |
 | **[	Locating Restriction Sites](https://rosalind.info/problems/revp/)**  | **[REVP.py]()**  |
-
 | **[	RNA Splicing](https://rosalind.info/problems/splc/)**  | **[SPLC.py]()**  |
 | **[	Enumerating k-mers Lexicographically](https://rosalind.info/problems/lexf/)**  | **[LEXF.py]()**  |
 | **[	Longest Increasing Subsequence](https://rosalind.info/problems/lgis/)**  | **[LGIS.py]()**  |
 | **[	Genome Assembly as Shortest Superstring](https://rosalind.info/problems/long/)**  | **[LONG.py]()**  |
-
 | **[	Perfect Matchings and RNA Secondary Structures](https://rosalind.info/problems/pmch/)**  | **[PMCH.py]()**  |
 | **[	Partial Permutations](https://rosalind.info/problems/pper/)**  | **[PPER.py]()**  |
 | **[Introduction to Random Strings](https://rosalind.info/problems/prob/)**  | **[PROB]()**  |
