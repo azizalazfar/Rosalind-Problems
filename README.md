@@ -8,8 +8,8 @@ List of problems:
 | **[Transcribing DNA into RNA](https://rosalind.info/problems/rna/)**  | **[RNA.py]()** |
 | **[Complementing a Strand of DNA](https://rosalind.info/problems/revc/)**  | **[REVC.py]()**  |
 | **[Rabbits and Recurrence Relations](https://rosalind.info/problems/fib/)**  | **[FIB.py]()**  |
-| **[	Computing GC Content](https://rosalind.info/problems/gc/)**  | **[](GC.py)**  |
-| **[	Counting Point Mutations](https://rosalind.info/problems/hamm/)**  | **[](HAMM.py)**  |
+| **[	Computing GC Content](https://rosalind.info/problems/gc/)**  | **[GC.py]()**  |
+| **[	Counting Point Mutations](https://rosalind.info/problems/hamm/)**  | **[HAMM.py]()**  |
 | **[Mendel's First Law](https://rosalind.info/problems/iprb/)**  | **[IPRB.py]()**  |
 | **[	Translating RNA into Protein](https://rosalind.info/problems/prot/)**  | **[PROT.py]()**  |
 | **[Finding a Motif in DNA](https://rosalind.info/problems/subs/)**  | **[SUBS.py]()**  |
